@@ -13,7 +13,7 @@ export default function LandingPage() {
           <div className="text-center sm:text-left">
             <div className="mb-6">
               <span className="text-gray-500 font-light tracking-wide">
-                spott<span className="text-purple-400">*</span>
+                Eventra<span className="text-purple-400">*</span>
               </span>
             </div>
 

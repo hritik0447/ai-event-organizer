@@ -319,11 +319,12 @@ export default function CreateEventPage() {
           </div>
 
           {/* Date + Time */}
-          <div className="grid grid-cols-2 gap-6">
+         
+<div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
             {/* Start */}
             <div className="space-y-2">
               <Label className="text-sm">Start</Label>
-              <div className="grid grid-cols-[1fr_auto] gap-2">
+              <div className="grid grid-cols-1 sm:grid-cols-[1fr_auto] gap-2">
                 <Popover>
                   <PopoverTrigger asChild>
                     <Button

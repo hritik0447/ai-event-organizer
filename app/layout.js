@@ -8,7 +8,7 @@ import { ConvexClientProvider } from "@/components/convex-client-provider";
 import { Toaster } from "sonner";
 
 export const metadata = {
-  title: "Spott - Delightful Events Start Here",
+  title: "Eventra - Delightful Events Start Here",
   description: "Discover and create amazing events",
 };
 

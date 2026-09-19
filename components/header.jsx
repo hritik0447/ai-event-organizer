@@ -32,14 +32,14 @@ export default function Header() {
           {/* Logo */}
           <Link href="/" className="flex items-center">
             <Image
-              src="/spott.png"
-              alt="Spott logo"
+              src="/eventra.png"
+              alt="Eventra logo"
               width={500}
               height={500}
               className="w-full h-11"
               priority
             />
-            {/* <span className="text-purple-500 text-2xl font-bold">spott*</span> */}
+            {/* <span className="text-purple-500 text-2xl font-bold">eventra*</span> */}
             {hasPro && (
               <Badge className="bg-linear-to-r from-pink-500 to-orange-500 gap-1 text-white ml-3">
                 <Crown className="w-3 h-3" />
