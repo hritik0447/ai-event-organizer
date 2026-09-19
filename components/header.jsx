@@ -36,7 +36,7 @@ export default function Header() {
               alt="Eventra logo"
               width={500}
               height={500}
-              className="w-full h-11"
+              className="w-full h-15"
               priority
             />
             {/* <span className="text-purple-500 text-2xl font-bold">eventra*</span> */}
